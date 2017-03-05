@@ -1,0 +1,7 @@
+2017-03-05 11:29:36 INFO  Scenario_Cart:54 - Failed as Actual Result is  Atta Noodles - Classic  Expected Result is  Atta Noodle - Classic
+2017-03-05 11:31:41 INFO  Scenario_Cart:50 - Passed as Actual Result is  Atta Noodles - Classic  Expected Result is  Atta Noodles - Classic
+2017-03-05 11:33:15 INFO  Scenario_Cart:101 - Passed as Actual Result is  There are no items in your basket.  Expected Result is  There are no items in your basket.
+2017-03-05 12:07:48 INFO  Scenario_Search:31 - Executing the Testcase GB_01 Order set is 1.0
+2017-03-05 12:08:00 INFO  Scenario_Search:46 - Passed as Actual Result is Sorry! There are no products to display.  Expected Result is  Sorry! There are no products to display.
+2017-03-05 12:22:56 INFO  Scenario_Search:? - Executing the Testcase GB_01 Order set is 1.0
+2017-03-05 12:23:12 INFO  Scenario_Search:? - Passed as Actual Result is Sorry! There are no products to display.  Expected Result is  Sorry! There are no products to display.
